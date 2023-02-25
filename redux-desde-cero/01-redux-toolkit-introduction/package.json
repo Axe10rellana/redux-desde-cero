@@ -1,0 +1,33 @@
+{
+  "name": "redux-toolkit-introduction",
+  "description": "Código base del ejemplo Redux Toolkit Introduction donde se ven los conceptos basicos de redux y redux toolkit.",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "homepage": "./",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "react",
+    "react-redux",
+    "reduxjs/toolkit",
+    "vite"
+  ],
+  "author": "Axe10rellana",
+  "license": "MIT",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "@vitejs/plugin-react": "^3.1.0",
+    "vite": "^4.1.0"
+  }
+}

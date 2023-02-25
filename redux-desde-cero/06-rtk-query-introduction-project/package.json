@@ -1,0 +1,38 @@
+{
+  "name": "06-rtk-query-introduction-project",
+  "description": "Código base del proyecto RTK Query Introduction Project donde se ven los conceptos basicos de redux y redux toolkit.",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "homepage": "./",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "fontawesome",
+    "react",
+    "react-dom",
+    "react-redux",
+    "reduxjs/toolkit",
+    "vite"
+  ],
+  "author": "Axe10rellana",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.3.0",
+    "@fortawesome/free-solid-svg-icons": "^6.3.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@reduxjs/toolkit": "^1.9.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "@vitejs/plugin-react": "^3.1.0",
+    "vite": "^4.1.0"
+  }
+}
