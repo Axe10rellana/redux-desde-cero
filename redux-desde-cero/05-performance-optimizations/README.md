@@ -1,8 +1,8 @@
-# Performance Optimizations
+# Blog Project
 
 ## Descripción
 
-Código base del ejemplo Performance Optimizations donde se ven los conceptos basicos de redux y redux toolkit.
+Código base del proyecto Blog Project donde se ven los conceptos basicos de redux y redux toolkit.
 
 ---
 

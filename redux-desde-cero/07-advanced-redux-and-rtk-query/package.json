@@ -1,6 +1,6 @@
 {
-  "name": "03-async-logic-and-thunks",
-  "description": "Código base del proyecto Blog Project donde se ven los conceptos basicos de redux y redux toolkit.",
+  "name": "07-advanced-redux-and-rtk-query",
+  "description": "Código base del proyecto Blog Project donde se ven los conceptos basicos de redux y redux toolkit y RTK Query.",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -16,6 +16,7 @@
     "react",
     "react-dom",
     "react-redux",
+    "react-router-dom",
     "reduxjs/toolkit",
     "vite"
   ],
@@ -27,7 +28,8 @@
     "date-fns": "^2.29.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-redux": "^8.0.5"
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.8.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.27",

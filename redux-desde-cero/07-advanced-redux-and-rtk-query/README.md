@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Código base del proyecto Blog Project donde se ven los conceptos basicos de redux y redux toolkit.
+Código base del proyecto Blog Project donde se ven los conceptos basicos de redux y redux toolkit y RTK Query.
 
 ---
 
@@ -11,6 +11,7 @@ Código base del proyecto Blog Project donde se ven los conceptos basicos de red
 - npm i
 - npm run dev
 - npm run build
+- json-server --watch data/db.json --port 3500
 
 ## Dependencias
 
@@ -19,6 +20,7 @@ Código base del proyecto Blog Project donde se ven los conceptos basicos de red
 - React
 - React DOM
 - React Redux
+- React Router DOM
 - Redux/toolkit
 
 ## Dependencias De Desarrollo

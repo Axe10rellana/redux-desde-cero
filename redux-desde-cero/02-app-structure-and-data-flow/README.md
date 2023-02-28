@@ -1,8 +1,8 @@
-# App Structure And Data Flow
+# Blog Project
 
 ## Descripción
 
-Código base del ejemplo App Structure And Data Flow donde se ven los conceptos basicos de redux y redux toolkit.
+Código base del proyecto Blog Project donde se ven los conceptos basicos de redux y redux toolkit.
 
 ---
 

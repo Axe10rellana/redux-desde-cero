@@ -1,6 +1,6 @@
 {
   "name": "02-app-structure-and-data-flow",
-  "description": "Código base del ejemplo App Structure And Data Flow donde se ven los conceptos basicos de redux y redux toolkit.",
+  "description": "Código base del proyecto Blog Project donde se ven los conceptos basicos de redux y redux toolkit.",
   "private": true,
   "version": "1.0.0",
   "type": "module",
