@@ -1,0 +1,44 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Código base de la API de registro, login y autenticación de usuarios donde se ven conceptos basicos de node, express, mongodb y Json Web Tokens.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --trace-warnings server",
+    "dev": "nodemon --trace-warnings server"
+  },
+  "keywords": [
+    "bcrypt",
+    "cookie-parser",
+    "cors",
+    "date-fns",
+    "dotenv",
+    "express",
+    "jsonwebtoken",
+    "mongodb",
+    "mongoose",
+    "node",
+    "nodemon",
+    "uuid"
+  ],
+  "author": "Axe10rellana",
+  "license": "MIT",
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "date-fns": "^2.29.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
