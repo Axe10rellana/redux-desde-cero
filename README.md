@@ -1,4 +1,4 @@
-# React RTK Crud
+# Redux desde cero
 
 ## Descripción
 
