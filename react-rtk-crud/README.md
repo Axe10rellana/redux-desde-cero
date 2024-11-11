@@ -1,28 +1,28 @@
-# React RTK Crud
+# Tasks Pending
 
 ## Descripción
 
-Código base del ejemplo react-rtk-crud donde se realiza un crud para entender los conceptos basicos de redux, redux toolkit y Tailwind CSS.
+Código base de la Interfaz Tasks Pending hecha en React, Redux, Redux Toolkit y Tailwind CSS.
 
 ---
 
 ## Vista En Versión Desktop
 
-![crud_tasklist_desktop_screen](src/assets/designs/crudTaskListDesktopScreen.png)
+![crud_tasklist_desktop_screen](src/assets/design/crudTaskListDesktopScreen.png)
 
-![crud_taskform_desktop_screen](src/assets/designs/crudTaskFormDesktopScreen.png)
+![crud_taskform_desktop_screen](src/assets/design/crudTaskFormDesktopScreen.png)
 
 ## Vista En Versión Mobile
 
-![crud_tasklist_mobile_screen](src/assets/designs/crudTaskListMobileScreen.png)
+![crud_tasklist_mobile_screen](src/assets/design/crudTaskListMobileScreen.png)
 
-![crud_taskform_mobile_screen](src/assets/designs/crudTaskFormMobileScreen.png)
+![crud_taskform_mobile_screen](src/assets/design/crudTaskFormMobileScreen.png)
 
 ---
 
 ## Enlace A La Aplicación
 
-- [React RTK Crud](https://redux-rtk-crud.netlify.app/)
+- [Tasks Pending](https://tasks-pending.netlify.app/)
 
 ---
 
